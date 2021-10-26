@@ -1,5 +1,5 @@
 {
-  "name": "stripe-payment-intents",
+  "name": "tutorial-stripe-payment-intents",
   "version": "1.0.0",
   "main": "server.js",
   "license": "MIT",
